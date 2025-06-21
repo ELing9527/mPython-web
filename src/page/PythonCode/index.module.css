@@ -1,0 +1,17 @@
+.python{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    .content{
+        height: calc(100% - var(--foot-height) - var(--head-height));
+        display: flex;
+
+        .r{
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}

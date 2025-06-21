@@ -1,0 +1,19 @@
+{
+  "name": "掌控版",
+  "link": "连接串行端口",
+  "init": "初始化固件",
+  "unlink": "断开串行端口",
+  "upload": "上传代码",
+  "term": "终端",
+  "set": "设置",
+  "system": "系统设置",
+  "code": "代码设置",
+  "lng": "语言设置",
+  "firmware_set": "固件设置",
+  "baud_rate": "波特率",
+  "publish": "发布",
+  "save": "保存",
+  "folder": "文件夹",
+  "welcome": "欢迎使用我们的应用",
+  "description": "这是一个演示国际化的示例应用"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Control board",
+  "link": "Connect serial port",
+  "init": "Initialize firmware",
+  "unlink": "Disconnect the serial port",
+  "upload": "upload code",
+  "term": "Terminal",
+  "set": "Settings",
+  "system": "System settings",
+  "code": "Code settings",
+  "lng": "Language settings",
+  "firmware_set": "firmware setting",
+  "baud_rate": "baud rate",
+  "publish": "Publish",
+  "save": "Save",
+  "folder": "Folder",
+  "welcome": "Welcome to our application",
+  "description": "This is a sample application demonstrating i18n"
+}

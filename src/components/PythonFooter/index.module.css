@@ -1,0 +1,4 @@
+.foot{
+    height: var(--foot-height);
+    background-color: #cceeff44;
+}

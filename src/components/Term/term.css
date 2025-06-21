@@ -1,0 +1,25 @@
+/* 美化 xterm 的滚动条 */
+.xterm .xterm-viewport {
+    scrollbar-width: thin; /* Firefox */
+    scrollbar-color: #4b5563 transparent; /* Firefox */
+}
+
+/* Chrome, Edge 等 WebKit 浏览器 */
+.xterm .xterm-viewport::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+.xterm .xterm-viewport::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.xterm .xterm-viewport::-webkit-scrollbar-thumb {
+    background-color: #4b5563; /* 深灰 */
+    border-radius: 4px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+}
+.xterm .xterm-viewport::-webkit-scrollbar-thumb:hover {
+    background-color: #9ca3af; /* hover 更亮 */
+}
