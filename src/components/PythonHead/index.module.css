@@ -1,6 +1,6 @@
 .head {
     height: var(--head-height);
-    background-color: #cceeff44;
+    background-color: #F6F3EB;
 
     display: flex;
     justify-content: space-between;
